@@ -81,7 +81,9 @@ main {
         margin-top: 20px;
         align-items: flex-start;
     }
- 
+    .flex > svg {
+        min-width: 45px;
+    }
     .description {
         font-size: 12px;
     }
